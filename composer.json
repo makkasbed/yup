@@ -12,5 +12,8 @@
             "homepage": "http://logiclabent.com",
             "role": "Developer"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"yup": "yup/src/"}
+    }
 }
