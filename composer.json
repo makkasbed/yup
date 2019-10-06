@@ -1,0 +1,16 @@
+{
+    "name": "yup/yup",
+    "type": "library",
+    "description": "Php Library for YUP payment platform by YUP Ghana",
+    "keywords": ["payments","yup","ghana","africa"],
+    "homepage": "https://societegenerale.com.gh",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adu Bediako Asare",
+            "email": "adu.asare@socgen.com",
+            "homepage": "http://logiclabent.com",
+            "role": "Developer"
+        }
+    ],
+}
