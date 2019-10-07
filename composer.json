@@ -5,6 +5,9 @@
     "keywords": ["payments","yup","ghana","africa"],
     "homepage": "https://societegenerale.com.gh",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {"Yup\\": "src/"}
+    },
     "authors": [
         {
             "name": "Adu Bediako Asare",
