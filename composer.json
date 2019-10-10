@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Php Library for YUP payment platform by YUP Ghana",
     "keywords": ["payments","yup","ghana","africa"],
-    "homepage": "https://societegenerale.com.gh",
+    "homepage": "https://mygadgetsdirect.com",
     "license": "MIT",
     "autoload": {
         "psr-4": {"Yup\\": "src/"}
@@ -11,8 +11,8 @@
     "authors": [
         {
             "name": "Adu Bediako Asare",
-            "email": "adu.asare@socgen.com",
-            "homepage": "http://logiclabent.com",
+            "email": "dev@mygadgetsdirect.com",
+            "homepage": "http://mygadgetsdirect.com",
             "role": "Developer"
         }
     ]
