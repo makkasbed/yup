@@ -1,7 +1,7 @@
 {
     "name": "yup/yup",
     "type": "library",
-    "description": "Php Library for YUP payment platform by YUP Ghana",
+    "description": "Php Library for YUP payments",
     "keywords": ["payments","yup","ghana","africa"],
     "homepage": "https://mygadgetsdirect.com",
     "license": "MIT",
